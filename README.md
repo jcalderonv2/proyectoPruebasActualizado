@@ -1,1 +1,2 @@
-# proyectoPruebasActualizado
+-Proyecto pruebas actualizado.
+-Katas de practica en clase finalizadas (calculadoraSalarial y calculadoraHileras).
